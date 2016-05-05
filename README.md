@@ -37,6 +37,7 @@ Other Information
 - [James Montemagno Github](https://github.com/jamesmontemagno)
 - [James Montemagno MeetupManager app](https://github.com/jamesmontemagno/MeetupManager)
 - [Xamarin Developers](https://developer.xamarin.com/)
+- [EdX DEV215x Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
 
 ## Authors ##
 
