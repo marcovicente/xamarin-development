@@ -31,7 +31,7 @@ After installing VS 2015, you will also need to install the following:
 
 Other Information
 =================
-- [Xamarin Workshop[(https://github.com/XamCommunityWorkshop/SessionsApp)
+- [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
 - [Xamarin Plugins Github](https://github.com/xamarin/plugins)
 - [James Montemagno](http://motzcod.es/)
 - [James Montemagno Github](https://github.com/jamesmontemagno)
