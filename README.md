@@ -29,6 +29,13 @@ After installing VS 2015, you will also need to install the following:
 ## Coding Style ##
 [.NET Foundation](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md)
 
+Other Information
+=================
+- [James Montemagno](http://motzcod.es/)
+- [James Montemagno Github](https://github.com/jamesmontemagno)
+- [Xamarin Developers](https://developer.xamarin.com/)
+- [Xamarin Plugins Github](https://github.com/xamarin/plugins)
+
 ## Authors ##
 
 [Marco Vicente](https://twitter.com/h_markov_m)
