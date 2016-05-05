@@ -39,6 +39,9 @@ Other Information
 - [Xamarin Developers](https://developer.xamarin.com/)
 - [EdX DEV215x Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
 
+##### Samples #####
+- [Xamarin Evolve 2016 Mobile App](https://github.com/xamarinhq/app-evolve)
+
 ## Authors ##
 
 [Marco Vicente](https://twitter.com/h_markov_m)
