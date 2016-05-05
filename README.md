@@ -33,7 +33,7 @@ Useful Information
 =================
 - [Xamarin Plugins Github](https://github.com/xamarin/plugins)
 - [James Montemagno](http://motzcod.es/)
--- [James Montemagno Github](https://github.com/jamesmontemagno)
+- [James Montemagno Github](https://github.com/jamesmontemagno)
 - [Xamarin Developers](https://developer.xamarin.com/)
 
 ##### eLearning #####
