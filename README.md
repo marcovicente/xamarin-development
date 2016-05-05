@@ -29,18 +29,20 @@ After installing VS 2015, you will also need to install the following:
 ## Coding Style ##
 [.NET Foundation](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md)
 
-Other Information
+Useful Information
 =================
-- [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
 - [Xamarin Plugins Github](https://github.com/xamarin/plugins)
 - [James Montemagno](http://motzcod.es/)
-- [James Montemagno Github](https://github.com/jamesmontemagno)
-- [James Montemagno MeetupManager app](https://github.com/jamesmontemagno/MeetupManager)
+-- [James Montemagno Github](https://github.com/jamesmontemagno)
 - [Xamarin Developers](https://developer.xamarin.com/)
-- [EdX DEV215x Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
+
+##### eLearning #####
+- [EdX - Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
+- [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
 
 ##### Samples #####
 - [Xamarin Evolve 2016 Mobile App](https://github.com/xamarinhq/app-evolve)
+- [James Montemagno MeetupManager app](https://github.com/jamesmontemagno/MeetupManager)
 
 ## Authors ##
 
