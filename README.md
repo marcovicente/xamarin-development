@@ -1,5 +1,5 @@
 # Xamarin Development Guide
-====================
+
 Examples and auxiliary documentation for Xamarin mobile development.
 
 ## Getting Started ##
@@ -12,7 +12,12 @@ Select the "Custom" installation type and select the following from the features
 - Universal Windows App Development Tools
 - Windows 8.1 and Windows Phone 8.0/8.1 Tools
 
-We also recommend installing [Microsoft Visual Studio Emulator for Android](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx) as well as [Emulators for Windows Phone 8.1](https://www.microsoft.com/en-us/download/details.aspx?id=44574). If you already have VS 2015 installed, you can verify that these features are installed by modifying the VS 2015 installation via the Control Panel.
+We also recommend installing [Microsoft Visual Studio Emulator for Android](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx) as well as [Emulators for Windows Phone 8.1](https://www.microsoft.com/en-us/download/details.aspx?id=44574). If you already have Visual Studio 2015 installed, you can verify that these features are installed by modifying the Visual Studio 2015 installation via the Control Panel.
+
+##### Install Additional Features #####
+After installing VS 2015, you will also need to install the following:
+  - Bing Maps SDK for Windows 8.1 Store apps -- you can find this in `Tools > Extensions and Updates` and searching for "bing" in the Online pane.
+  - Android SDKs -- you can install these via `Tools > Android > Android SDK Manager`.
 
 ## Coding Style ##
 [.NET Foundation](https://github.com/dotnet/corefx/blob/master/Documentation/coding-guidelines/coding-style.md)
