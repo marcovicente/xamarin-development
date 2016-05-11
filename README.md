@@ -16,7 +16,7 @@ Select the "Custom" installation type and select the following from the features
 
 - C#/.NET (Xamarin v4.0.3)
 - Universal Windows App Development Tools
-- Windows 8.1 and Windows Phone 8.0/8.1 Tools
+- Windows 8.1 and Windows Phone 8.0/8.1 Tools (Visual Studio Pro)
 
 We also recommend installing [Microsoft Visual Studio Emulator for Android](https://www.visualstudio.com/en-us/features/msft-android-emulator-vs.aspx) as well as [Emulators for Windows Phone 8.1](https://www.microsoft.com/en-us/download/details.aspx?id=44574). If you already have Visual Studio 2015 installed, you can verify that these features are installed by modifying the Visual Studio 2015 installation via the Control Panel.
 
