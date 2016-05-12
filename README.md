@@ -20,7 +20,6 @@ We also recommend installing [Microsoft Visual Studio Emulator for Android](http
 <a name="visual_studio_additional_setup"></a>
 ##### Install Additional Features #####
 After installing VS 2015, you will also need to install the following:
-  - Bing Maps SDK for Windows 8.1 Store apps -- you can find this in `Tools > Extensions and Updates` and searching for "bing" in the Online pane.
   - Android SDKs -- you can install these via `Tools > Android > Android SDK Manager`.
 
 ## Coding Style ##
