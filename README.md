@@ -39,6 +39,7 @@ Useful Information
 ##### eLearning #####
 - [EdX - Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
 - [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
+- [MVA - Cross-Platform Development with Xamarin & Visual Studio Tutorial](https://www.youtube.com/watch?v=LaSPkLJOMlo)
 - [Addressing the OWASP Mobile Security Threats Using Xamarin](https://evolve.xamarin.com/session/56e1ff1efd00c0253cae339e)
 
 ##### Samples #####
