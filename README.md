@@ -41,6 +41,10 @@ Useful Information
 - [MeetupManager app](https://github.com/jamesmontemagno/MeetupManager)
 - [Xamarin Evolve 2016 Mobile App](https://github.com/xamarinhq/app-evolve)
 
+##### Critics #####
+- [Why Microsoft's Xamarin purchase is a blunder](http://www.zdnet.com/article/microsofts-xamarin-purchase-is-a-blunder/)
+
+
 ## Authors ##
 
 [Marco Vicente](https://twitter.com/h_markov_m)
