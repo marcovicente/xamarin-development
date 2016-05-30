@@ -6,13 +6,13 @@ Examples and auxiliary documentation for Xamarin mobile development.
 Setup the Xamarin Development Environment
 
 * Windows
-* * [Install Visual Studio 2015](#visual_studio_setup)
-* * [Additional Features](#visual_studio_additional_setup)
+ * [Install Visual Studio 2015](#visual_studio_setup)
+ * [Additional Features](#visual_studio_additional_setup)
 
 * Mac
-* * [Install Xamarin Studio](#xamarin_studio_setup)
-* * [Install Xcode](#xcode_setup)
-* * [Activate Xamarin Studio](#xamarin_studio_activation)
+ * [Install Xamarin Studio](#xamarin_studio_setup)
+ * [Install Xcode](#xcode_setup)
+ * [Activate Xamarin Studio](#xamarin_studio_activation)
 
 <a name="visual_studio_setup"></a>
 #### Install Visual Studio 2015 ####
