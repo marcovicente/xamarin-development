@@ -13,6 +13,7 @@ Setup the Xamarin Development Environment
  * [Install Xamarin Studio](#xamarin_studio_setup)
  * [Install Xcode](#xcode_setup)
  * [Activate Xamarin Studio](#xamarin_studio_activation)
+ * [Setting up your device for development] (https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/)
 
 <a name="visual_studio_setup"></a>
 #### Install Visual Studio 2015 ####
