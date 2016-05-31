@@ -53,7 +53,7 @@ Useful Information
 - [Review: Xamarin in 2015 - Data Corruption and Swift are Not Helping](http://www.whitneyland.com/2015/07/xamarin-review-2015.html)
 
 
-## Authors ## 
+## Authors 
 
 [Marco Vicente](https://twitter.com/h_markov_m)
 
