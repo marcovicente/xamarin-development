@@ -10,10 +10,9 @@ Setup the Xamarin Development Environment
  * [Additional Features](#visual_studio_additional_setup)
 
 * Mac
- * [Install Xamarin Studio](#xamarin_studio_setup)
- * [Install Xcode](#xcode_setup)
- * [Activate Xamarin Studio](#xamarin_studio_activation)
- * [Setting up your device for development] (https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/)
+ * [Install Xamarin Studio](https://developer.xamarin.com/guides/ios/getting_started/installation/mac/)
+ * [Install Xcode - App Store] 
+ * [Setting up your device for development] (https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/free-provisioning/)
 
 <a name="visual_studio_setup"></a>
 #### Install Visual Studio 2015 ####
