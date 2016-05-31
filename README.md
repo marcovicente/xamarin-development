@@ -15,6 +15,7 @@ Setup the Xamarin Development Environment
  * Setting up your device for development
    *  [Free Provisioning] (https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/free-provisioning/)
     *  [Device Provisioning] (https://developer.xamarin.com/guides/ios/getting_started/installation/device_provisioning/) (`recommended`)
+    *  [Backup Development Certificates](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingCertificates/MaintainingCertificates.html)
 
 <a name="visual_studio_setup"></a>
 #### Install Visual Studio 2015 ####
