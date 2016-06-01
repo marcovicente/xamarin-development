@@ -39,6 +39,8 @@ Useful Information
 - [Xamarin Plugins Github](https://github.com/xamarin/plugins)
 
 ##### eLearning #####
+- [Xamarin University](https://university.xamarin.com)
+- [MVA - Xamarin Resources](https://mva.microsoft.com/colleges/xamarin)
 - [Addressing the OWASP Mobile Security Threats Using Xamarin](https://evolve.xamarin.com/session/56e1ff1efd00c0253cae339e)
 - [EdX - Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
 - [MVA - Xamarin for absolute beginners](https://mva.microsoft.com/en-US/training-courses/xamarin-for-absolute-beginners-16182?l=fPHWqptJC_5705846048)
