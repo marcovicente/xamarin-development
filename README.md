@@ -49,6 +49,7 @@ Useful Information
 - [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
 
 ##### Samples #####
+- [Xamarin Samples] (https://github.com/xamarin/mobile-samples/)
 - [MeetupManager app](https://github.com/jamesmontemagno/MeetupManager)
 - [Xamarin Evolve 2016 Mobile App](https://github.com/xamarinhq/app-evolve)
 - [Xamarin Prebuilt Apps] (https://www.xamarin.com/prebuilt)
