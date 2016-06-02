@@ -33,6 +33,7 @@ After installing Visual Studio 2015, you will also need to install the following
 
 Useful Information
 =================
+- [Xamarin Cross Platform](https://developer.xamarin.com/guides/cross-platform/)
 - [James Montemagno](http://motzcod.es/)
 - [James Montemagno Github](https://github.com/jamesmontemagno)
 - [Xamarin Developers](https://developer.xamarin.com/)
