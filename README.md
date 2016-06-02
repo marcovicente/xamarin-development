@@ -41,6 +41,7 @@ Useful Information
 
 ##### eLearning #####
 - [Xamarin University](https://university.xamarin.com)
+- [Xamarin Common Pitfalls](https://university.xamarin.com/guestlectures/avoiding-common-pitfalls-in-xamarin-apps)
 - [MVA - Xamarin Resources](https://mva.microsoft.com/colleges/xamarin)
 - [Addressing the OWASP Mobile Security Threats Using Xamarin](https://evolve.xamarin.com/session/56e1ff1efd00c0253cae339e)
 - [EdX - Introduction to Xamarin.Forms](https://courses.edx.org/courses/course-v1:Microsoft+DEV215x+1T2016/info)
