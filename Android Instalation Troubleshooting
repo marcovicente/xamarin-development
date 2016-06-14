@@ -1,0 +1,43 @@
+- If access to android sdk manager thows following error:
+[I:sdk]:                  Looking for Android SDK..
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory found:
+    Path does not contain adb.exe in \platform-tools (C:\android-sdk-windows).
+[I:sdk]:                    Key HKCU\SOFTWARE\Xamarin\MonoAndroid\PrivateAndroidSdkPath not found.
+[I:sdk]:                    Key HKCU\SOFTWARE\Android SDK Tools\Path not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\Android SDK Tools\Path found:
+    Path does not contain adb.exe in \platform-tools (C:\Program Files (x86)\Android\android-sdk).
+[I:sdk]:                  Looking for Android NDK..
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\AndroidNdkDirectory found:
+    Path contains ndk-stack.exe in \. (C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r10e\).
+[I:sdk]:                    Key HKLM\SOFTWARE\Novell\Mono for Android\AndroidNdkDirectory not found.
+[I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\JavaSdkDirectory not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\Novell\Mono for Android\JavaSdkDirectory not found.
+[I:sdk]:                  Looking for Java 6 SDK..
+[I:sdk]:                    Key HKLM\SOFTWARE\JavaSoft\Java Development Kit\CurrentVersion found.
+[I:sdk]:                    Key HKLM\SOFTWARE\JavaSoft\Java Development Kit\1.6\JavaHome not found.
+[I:sdk]:                    Key HKLM\SOFTWARE\JavaSoft\Java Development Kit\1.7\JavaHome found:
+    Path contains jarsigner.exe in \bin (C:\Program Files (x86)\Java\jdk1.7.0_25).
+[I:Unknown]:              Did not find Android SDK
+
+  - Follow this steps ( based on https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/)
+	  - Download android sdk (https://developer.android.com/studio/index.html - Bottom)
+		- Dowload android ndk (https://developer.android.com/ndk/downloads/index.html - 1st link)
+		- Set proxy on sdk manager
+			  - Tools -> Options
+			  - Server: proxy.ritta.local; Port: 8080;
+		  - packages -> reload; para ressacar pacotes
+		  - On pop-up fill login, password and domain: ritta.local;  workstation is left in blank
+		  - sselect the following packages for instalation:
+			  - tools
+				  - adroid sdk tools
+				  - android sdk platform-tools
+				  - android sdk build-tools
+			  - android 6.0 (API 23)
+				  - sdk platform
+	
+  - How to enable debugging on android device:
+      - install the sdk Platform of targeted device Android OS through SDK Manager
+		  - https://developer.xamarin.com/guides/android/getting_started/installation/set_up_device_for_development/ 
+		  - restart visual studios
+		  - set myproject.droid as startup project
