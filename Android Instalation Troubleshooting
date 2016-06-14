@@ -1,4 +1,4 @@
-- If access to android sdk manager thows following error:
+- If access to android sdk manager throws following error:
 [I:sdk]:                  Looking for Android SDK..
 [I:sdk]:                    Key HKCU\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory not found.
 [I:sdk]:                    Key HKLM\SOFTWARE\Novell\Mono for Android\AndroidSdkDirectory found:
