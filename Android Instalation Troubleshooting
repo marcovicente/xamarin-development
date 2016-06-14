@@ -21,23 +21,23 @@
 [I:Unknown]:              Did not find Android SDK
 
   - Follow this steps ( based on https://developer.xamarin.com/guides/android/getting_started/installation/windows/manual_installation/)
-	  - Download android sdk (https://developer.android.com/studio/index.html - Bottom)
-		- Dowload android ndk (https://developer.android.com/ndk/downloads/index.html - 1st link)
-		- Set proxy on sdk manager
-			  - Tools -> Options
-			  - Server: proxy.ritta.local; Port: 8080;
-		  - packages -> reload; para ressacar pacotes
-		  - On pop-up fill login, password and domain: ritta.local;  workstation is left in blank
-		  - sselect the following packages for instalation:
-			  - tools
-				  - adroid sdk tools
-				  - android sdk platform-tools
-				  - android sdk build-tools
-			  - android 6.0 (API 23)
-				  - sdk platform
+	- Download android sdk (https://developer.android.com/studio/index.html - Bottom)
+	- Dowload android ndk (https://developer.android.com/ndk/downloads/index.html - 1st link)
+	- Set proxy on sdk manager
+		- Tools -> Options
+		- Server: proxy.ritta.local; Port: 8080;
+	- packages -> reload; para ressacar pacotes
+	- On pop-up fill login, password and domain: ritta.local;  workstation is left in blank
+	- select the following packages for instalation:
+		- tools
+			- adroid sdk tools
+			- android sdk platform-tools
+			- android sdk build-tools
+		- android 6.0 (API 23)
+			- sdk platform
 	
   - How to enable debugging on android device:
-      - install the sdk Platform of targeted device Android OS through SDK Manager
-		  - https://developer.xamarin.com/guides/android/getting_started/installation/set_up_device_for_development/ 
-		  - restart visual studios
-		  - set myproject.droid as startup project
+  	- install the sdk Platform of targeted device Android OS through SDK Manager
+	- https://developer.xamarin.com/guides/android/getting_started/installation/set_up_device_for_development/ 
+	- restart visual studios
+	- set myproject.droid as startup project
