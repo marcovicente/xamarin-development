@@ -20,7 +20,7 @@ Setup the Xamarin Development Environment
 <a name="visual_studio_setup"></a>
 #### Install Visual Studio 2015 ####
 Download Visual Studio 2015 Community [here](https://www.visualstudio.com/downloads/download-visual-studio-vs).
-Select the "Custom" installation type and select the following option:
+Select the "Custom" installation type, keep default selected options and select the additional following option:
 - Cross Platform Mobile Development `>` C#/.NET (Xamarin)
 
 <a name="visual_studio_additional_setup"></a>
