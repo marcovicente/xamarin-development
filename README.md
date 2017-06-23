@@ -49,6 +49,7 @@ Useful Information
 - [MVA - Cross-Platform Development with Xamarin & Visual Studio Tutorial](https://www.youtube.com/watch?v=LaSPkLJOMlo)
 - [Xamarin Cross-Platform Guide](https://developer.xamarin.com/guides/cross-platform/windows/visual-studio/)
 - [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
+- [Dev Days Labs](https://github.com/xamarin/dev-days-labs)
 
 ##### Samples #####
 - [Xamarin Samples] (https://github.com/xamarin/mobile-samples/)
