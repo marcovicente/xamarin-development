@@ -50,6 +50,7 @@ Useful Information
 - [Xamarin Cross-Platform Guide](https://developer.xamarin.com/guides/cross-platform/windows/visual-studio/)
 - [Xamarin Workshop](https://github.com/XamCommunityWorkshop/SessionsApp)
 - [Dev Days Labs](https://github.com/xamarin/dev-days-labs)
+- [Customizing Xamarin.Forms UI] (https://www.youtube.com/watch?v=9_cDTWC8Ksg&feature=youtu.be)
 
 ##### Samples #####
 - [Xamarin Samples] (https://github.com/xamarin/mobile-samples/)
